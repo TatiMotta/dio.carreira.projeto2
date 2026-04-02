@@ -1,1 +1,127 @@
+Perfeito! Estou pronto para montar seu plano completo 🚀
 
+Agora preciso que você me envie os dados do Agent 1 neste formato:
+
+CARREIRA_ESCOLHIDA:
+HORAS_SEMANA:
+EXPERIENCIA: (zero / iniciante / alguma)
+OBJETIVO: (primeiro emprego / transição / crescimento)
+PREFERENCIA: (pessoas / dados / código)
+INTERESSES: (tecnologias que você gosta ou tem curiosidade)
+
+Assim que você enviar, eu já gero seu roadmap completo personalizado com tudo: plano de 90 dias, projeto de portfólio, roteiro de entrevistas e trilha da DIO 🔥
+
+CARREIRA_ESCOLHIDA: Engenharia de machine learning
+HORAS_SEMANA: 40h
+EXPERIENCIA: intermediária
+OBJETIVO: crescimento
+PREFERENCIA: dados e código
+INTERESSES: testes de software, metodologias ágeis, desenvolvimento web, códigos, dados
+
+Olá! Recebi suas informações do entrevistador.
+
+Vejo que você escolheu Engenharia de Machine Learning e tem 40h por semana para estudar. Perfeito!
+
+Vou montar agora seu plano completo personalizado...
+
+🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um(a) Engenheiro(a) de Machine Learning:
+
+Desenvolver, treinar e otimizar modelos de machine learning
+Criar pipelines de dados e automação de treinamento
+Integrar modelos em aplicações (APIs, sistemas web, etc.)
+Monitorar performance dos modelos em produção
+Trabalhar com times de dados, backend e produto em metodologias ágeis
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+Modelagem de Machine Learning (supervisionado e não supervisionado)
+Engenharia de dados (ETL, pipelines, feature engineering)
+Deploy de modelos (MLOps)
+NICE-TO-HAVE (complementares):
+Testes automatizados para ML e software
+Conhecimento em arquitetura de sistemas escaláveis
+FERRAMENTAS E TECNOLOGIAS:
+Python (Scikit-learn, Pandas, NumPy)
+TensorFlow ou PyTorch
+Docker, Git, APIs REST (FastAPI/Flask)
+📅 ROADMAP DE 90 DIAS
+
+ADAPTADO PARA: 40h/semana (intensivo com foco em crescimento profissional)
+
+MÊS 1 - FUNDAMENTOS AVANÇADOS
+SEMANA 1-2:
+Revisar fundamentos de ML (regressão, classificação, métricas) com foco prático
+Implementar modelos do zero (sem biblioteca pronta) para aprofundar entendimento
+SEMANA 3-4:
+Estudar pipelines de dados (ETL, feature engineering)
+Introdução a MLOps (versionamento de modelos, experiment tracking com MLflow)
+MÊS 2 - PRÁTICA AVANÇADA
+SEMANA 5-6:
+Treinar modelos mais robustos (Random Forest, XGBoost, redes neurais)
+Criar APIs para servir modelos (FastAPI ou Flask)
+SEMANA 7-8:
+Containerizar aplicações com Docker
+Implementar testes (unitários e de integração) para modelos e APIs
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+Desenvolver projeto completo de ML (do dado ao deploy)
+Aplicar boas práticas de código, testes e documentação
+SEMANA 11-12:
+Deploy em cloud (AWS, GCP ou Azure)
+Preparação para entrevistas técnicas e revisão de arquitetura
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Sistema Inteligente de Previsão com API (ML em Produção)
+O QUE FAZER:
+
+Criar um sistema completo que recebe dados (ex: vendas, clientes ou comportamento), treina um modelo e disponibiliza previsões via API.
+
+ENTREGÁVEIS:
+Pipeline de dados automatizado
+Modelo treinado e versionado
+API funcional para consumo externo
+CRITÉRIOS DE ACEITAÇÃO:
+Código limpo e organizado (boas práticas)
+Testes implementados (mínimo unitários)
+Deploy funcional acessível online
+DICA:
+
+Foque em mostrar processo, não só resultado. Documentação e organização contam MUITO para crescimento na carreira.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: Como você leva um modelo de ML para produção?
+
+COMO RESPONDER:
+Explique pipeline completo: coleta de dados → treinamento → validação → API → monitoramento. Mostre experiência prática.
+
+PERGUNTA 2: Como você garante a qualidade de um modelo?
+
+COMO RESPONDER:
+Fale de métricas (accuracy, F1), validação cruzada, testes e monitoramento em produção.
+
+PERGUNTA 3: Você já trabalhou com deploy de modelos?
+
+COMO RESPONDER:
+Descreva uso de APIs, Docker e cloud. Mesmo que seja projeto pessoal, conte como experiência real.
+
+PERGUNTA 4: Como você trabalha em equipe ágil?
+
+COMO RESPONDER:
+Explique uso de Scrum/Kanban, comunicação com time e entregas incrementais.
+
+PERGUNTA 5: Como você lida com dados ruins ou incompletos?
+
+COMO RESPONDER:
+Fale de limpeza, tratamento de outliers, imputação e análise exploratória.
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Machine Learning Specialist
+POR QUE ESSA TRILHA:
+
+Ela conecta perfeitamente com seu objetivo de crescimento, abordando desde fundamentos até práticas reais de mercado, incluindo projetos.
+
+PRÓXIMOS PASSOS:
+Acesse dio.me
+Busque por "Machine Learning Specialist"
+Inscreva-se gratuitamente
+Siga o cronograma junto com este roadmap
